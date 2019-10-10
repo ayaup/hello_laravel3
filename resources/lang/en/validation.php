@@ -130,7 +130,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => '邮箱地址不能为空！',
         ],
     ],
 
